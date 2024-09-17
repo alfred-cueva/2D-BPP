@@ -214,6 +214,5 @@ def print_final_grid(grid, placement_order):
     plt.grid(True)
     plt.show()
 
-# Visualize the final grid
 print_final_grid(grid, placement_order)
 
